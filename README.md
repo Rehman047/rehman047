@@ -7,7 +7,6 @@
 ## AI Student | Machine Learning Enthusiast | Future ML Engineer 🤖
 
 * 🎓 BS Artificial Intelligence at GIKI
-* 🏆 GIK Merit Scholarship Recipient (20th Position)
 * 📜 Dean's Honor Roll Awardee
 * 🌱 Currently learning Deep Learning, Hugging Face, and LLM Applications
 * 🔬 Interested in Machine Learning, NLP, RAG Systems, MLOps, and Generative AI
@@ -38,7 +37,6 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br><br>
@@ -46,8 +44,6 @@
 <h3>Machine Learning & AI</h3>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
