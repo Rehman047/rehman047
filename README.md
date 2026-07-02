@@ -2,7 +2,7 @@
 
 # Hello World, I'm Abdul Rehman Faisal 👋
 
-<img align="right" alt="AI GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5iNDRzNW5zM3M2d3Z3dHptZThqNnJ2aWxuZXJhaTZyYzQ4Ym0wYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" height="280"/>
+
 
 ## AI Student | Machine Learning Enthusiast | Future ML Engineer 🤖
 
